@@ -20,6 +20,9 @@ reference_genome_proteins='/path/to/reference/cultivar/proteins/fastafile'
 reference_genome_cds='/path/to/reference/cultivar/CDSs/fastafile'
 
 output_folder='/path/to/output/folder'
+
 types_file='/path/to/Liftoff/types/file'
+
 mybannotator_folder='/path/to/MYBannotator/installation/folder'
+
 myb_list_file='/path/to/MYBs/list/file
